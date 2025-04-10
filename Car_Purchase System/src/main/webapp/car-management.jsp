@@ -310,12 +310,12 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link active" href="user-management.jsp">
+                <a class="nav-link" href="user-management.jsp">
                     <i class="fas fa-users"></i> User Management
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="car-management.jsp">
+                <a class="nav-link active" href="car-management.jsp">
                     <i class="fas fa-car"></i> Car Listings
                 </a>
             </li>
